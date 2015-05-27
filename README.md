@@ -1,4 +1,5 @@
-# meteor_todos
+# Sid's Simple Todos
 Todo app from the Official Meteor tutorial
 
--Sid
+http://sids_simple_todos.meteor.com
+
